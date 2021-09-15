@@ -1,6 +1,6 @@
 <div align="center">
 <h1>👋 Olá, eu sou o Wendell Franco!</h1>
-<h3>🖥️ I’m interested in Programming, Design and Game Dev</h3>
+<h3>🖥️ I’m interested in Programming and Design</h3>
 <h3>☕ I’m currently learning Java on Generations Bootcamp</h3>
 
 </div></br>

@@ -4,35 +4,25 @@
 <h3>☕ I’m currently learning Java on Generations Bootcamp</h3><br>
 
 [<img alt="LinkedinLink" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wendell-franco-arj2509/)
-
 </div><hr>
 
 
-<div style = "display: inline_block" align="center"></br>
+<div style = "display: inline_block" align="center"><br>
     <!-- <h2>Tecnologias</h2> -->    
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>     
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    
-    
+       
 
-![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell2509&show_icons=true&theme=midnight-purple&count_private=true)<br>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell2509&show_icons=true&theme=midnight-purple&count_private=true)
+    <br><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div><br>
-
-<div style = "display: inline_block" align="center">
-    <!--<h2>Design</h2>-->
-
-
-
-</div>
 
 <div style = "display: inline_block" align="left">
     <h2>Outras ferramentas</h2><hr>
     <h3>IDE</h3>
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img alt="VS_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">

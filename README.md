@@ -21,7 +21,7 @@
 </div><br>
 
 <div style = "display: inline_block" align="left">
-    <h2>Outras ferramentas</h2><hr>
+    <h2>Outras ferramentas</h2>
     <h3>IDE</h3>
     <img alt="VS_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
